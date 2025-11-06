@@ -23,3 +23,7 @@ It extends the K-means segmentation analysis from the previous module and demons
 *(include one plot export — your PCA map or correlation heatmap)*
 
 ![Market Map](market_map.png)
+
+---
+
+*Author: Steven H. King — UC San Diego, 2025*
